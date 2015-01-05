@@ -1,0 +1,19 @@
+D:\GitHub\VRproto\platforms\android\ant-build\classes.dex : \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\grumpysailor\cordova\magnetsensor\MagnetSensor$1.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\grumpysailor\cordova\magnetsensor\MagnetSensor.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$1.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$2.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$3.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$4.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$5.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$6$1.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin$6.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\mesmotronic\plugins\FullScreenPlugin.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\BuildConfig.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\CordovaApp.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\R$attr.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\R$drawable.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\R$string.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\R$xml.class \
+D:\GitHub\VRproto\platforms\android\ant-build\classes\com\nichiang\vrproto\R.class \
+D:\GitHub\VRproto\platforms\android\ant-build\dexedLibs\classes-3f86d68cdae013af7b495afd4ed5ff42.jar \
